@@ -1,5 +1,5 @@
 {
-  "name": "symfony/panther",
+  "name": "rtarnaud/panther",
   "type": "library",
   "description": "A browser testing and web scraping library for PHP and Symfony.",
   "keywords": ["scraping", "E2E", "testing", "webdriver", "selenium", "symfony"],
